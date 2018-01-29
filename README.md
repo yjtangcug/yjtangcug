@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
 
 
-**my github.io is preparing**
+**My github.io is preparing**
 
 ----------
 
-waiting......
+Waiting......
 
 
