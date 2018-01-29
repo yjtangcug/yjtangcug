@@ -4,3 +4,11 @@ tags: 小书匠，github，markdown
 grammar_cjkRuby: true
 ---
 
+----------
+
+> This file is provied to test the Xiaoshujiang App and guihub.
+
+------
+
+
+
