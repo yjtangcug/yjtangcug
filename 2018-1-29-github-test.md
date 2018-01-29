@@ -6,6 +6,8 @@ grammar_cjkRuby: true
 
 ----------
 
+==Author==: Y. Tang
+
 > This file is provied to test the Xiaoshujiang App and guihub.
 
 ------
