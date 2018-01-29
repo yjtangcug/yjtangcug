@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-** my github.io is preparing **
+**my github.io is preparing**
 
 ----------
 
